@@ -273,8 +273,13 @@ body {
   }
 
   .six .hat {
-    /* top: -20px; */
+    top: -153px; 
     width: 50px;
+  }
+
+  .six .profile-picture{
+    width: 75%;
+    height: auto;
   }
 
   .wish-hbd {
